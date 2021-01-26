@@ -1,2 +1,2 @@
 # titanic_project
-titanic_machine Learning_project
+titanic machine Learning project
